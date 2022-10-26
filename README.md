@@ -1,3 +1,3 @@
 # morphing_waveshaper_bela_csound
 
-A [https://csound.com/](Csound) implementation of a morphing waveshaper for [https://learn.bela.io/products/modular/pepper/](Bela Pepper).
+A [Csound](https://csound.com) implementation of a morphing waveshaper for [Bela Pepper](https://learn.bela.io/products/modular/pepper/) .
